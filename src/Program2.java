@@ -1,3 +1,8 @@
+/*Problem 2:
+Write a Java program that takes a string, normalizes each character to uppercase, and determines its 1-based
+position in the English alphabet (where 'A' = 1, 'B' = 2, ..., 'Z' = 26) using direct ASCII offset arithmetic. */
+
+
 public class Program2 {
     public static void main(String[] args){
         String str= "Hello";

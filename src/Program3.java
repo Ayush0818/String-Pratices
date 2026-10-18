@@ -1,3 +1,10 @@
+/*Problem 3:
+Write a Java program to rearrange an uppercase version of a string by alternating characters inward from both
+ends (1st character, then last character, 2nd character, then 2nd-to-last character, and so on). If the string has an
+odd length, append the solitary middle character at the very end.
+ */
+
+
 public class Program3 {
     public static void main(String[] args){
         String str= "Hello";

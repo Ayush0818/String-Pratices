@@ -1,3 +1,8 @@
+/*Problem 1:
+Write a Java program that takes an input string, converts each character into uppercase, and outputs each character
+alongside its corresponding numerical ASCII code. */
+
+
 public class Program1 {
     public static void main(String[] args){
         String str= "Hello";
